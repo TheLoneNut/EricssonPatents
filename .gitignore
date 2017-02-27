@@ -1,2 +1,4 @@
-*.tsv
+.tsv
+.ipynb_checkpoints
+
 
